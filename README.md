@@ -22,8 +22,7 @@ Utilizando ReactJS, TypeScrypt e Next.Js como a base do projeto, apliquei meus c
 - Typescript
 - Tailwindcss
 - SASS
-- React Modal
-- React Toast
+- Headlessui Modal e Menu
 - Next.js
 
 
